@@ -120,24 +120,20 @@
                 </div>
                 <div class="rd-navbar-project rd-navbar-modern-project">
                   <div class="rd-navbar-project-modern-header">
-                    <h4 class="rd-navbar-project-modern-title">Get in Touch</h4>
+                    <h4 class="rd-navbar-project-modern-title">Sobre a equipe</h4>
                     <div class="rd-navbar-project-hamburger" data-multitoggle=".rd-navbar-main" data-multitoggle-blur=".rd-navbar-wrap" data-multitoggle-isolate>
                       <div class="project-close"><span></span><span></span></div>
                     </div>
                   </div>
                   <div class="rd-navbar-project-content rd-navbar-modern-project-content">
                     <div>
-                      <p>We are always ready to provide you with fresh organic products for your home or office. Contact us to find out how we can help you.</p>
-                      <div class="heading-6 subtitle">Our Contacts</div>
-                      <div class="row row-10 gutters-10">
-                        <div class="col-12"><img src="images/home-sidebar-394x255.jpg" alt="" width="394" height="255"/>
-                        </div>
-                      </div>
+                      <p>Nossa equipe de desenvolvimento é formada pelos seguintes membros: Eduarda, Everton, Isaac, Lizandra e Reginaldo. Somos alunos do Curso de Desenvolvimento de Sistemas da Escola Técnica Estadual (ETEC), dos Polos de... (continua - ou não).</p>
+                      <div class="heading-6 subtitle">Siga-nos</div>                      
                       <ul class="rd-navbar-modern-contacts">
                         <li>
                           <div class="unit unit-spacing-sm">
-                            <div class="unit-left"><span class="icon fa fa-phone"></span></div>
-                            <div class="unit-body"><a class="link-phone" href="tel:#">+1 323-913-4688</a></div>
+                            <div class="unit-left"><span class="icon fa fa-map-marker"></span></div>
+                            <div class="unit-body"><a class="link-location" href="#">Etec Martin Luther King: Apucarana, 815 - Tatuapé, São Paulo - SP - CEP: 03311-000</a></div>
                           </div>
                         </li>
                         <li>
@@ -149,7 +145,7 @@
                         <li>
                           <div class="unit unit-spacing-sm">
                             <div class="unit-left"><span class="icon fa fa-envelope"></span></div>
-                            <div class="unit-body"><a class="link-email" href="mailto:#">mail@demolink.org</a></div>
+                            <div class="unit-body"><a class="link-email" href="mailto:#">everton.lima57@etec.sp.gov.br</a></div>
                           </div>
                         </li>
                       </ul>
